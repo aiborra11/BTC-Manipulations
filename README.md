@@ -1,4 +1,7 @@
 ## BTC price corrections.
+
+(I am keeping the code privately. In case you are interested in evaluating it, reach me out and let's talk.).
+
 #### _**Predicting BTC price movements**_
 
 Bitcoin has been one of the trending topics to talk about and specially, within the financial environment. 
